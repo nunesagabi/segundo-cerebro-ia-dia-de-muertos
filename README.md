@@ -108,7 +108,7 @@ A apresentação busca mostrar como a celebração conecta memória, ancestralid
 
 O segundo cérebro foi desenvolvido no Google NotebookLM, reunindo fontes sobre a história, os rituais, a gastronomia, La Catrina e as tradições culturais do Día de Muertos.
 
-📚 **[Acessar meu Segundo Cérebro no NotebookLM]([https://notebooklm.link.google/sFZbuUvJT3e2](https://notebook.google.com/notebook/31abb2dd-2601-4802-a321-9d1fc6de1152))**
+📚 **[Acessar meu Segundo Cérebro no NotebookLM](https://notebook.google.com/notebook/31abb2dd-2601-4802-a321-9d1fc6de1152)**
 
 ## 💡 Aprendizados
 
